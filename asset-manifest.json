@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/thewerewalker/static/css/main.b86b2dc2.css",
-    "main.js": "/thewerewalker/static/js/main.316a2a94.js",
+    "main.css": "/thewerewalker/static/css/main.a015b936.css",
+    "main.js": "/thewerewalker/static/js/main.cf5436c4.js",
     "static/js/453.017e24e8.chunk.js": "/thewerewalker/static/js/453.017e24e8.chunk.js",
     "index.html": "/thewerewalker/index.html",
-    "main.b86b2dc2.css.map": "/thewerewalker/static/css/main.b86b2dc2.css.map",
-    "main.316a2a94.js.map": "/thewerewalker/static/js/main.316a2a94.js.map",
+    "main.a015b936.css.map": "/thewerewalker/static/css/main.a015b936.css.map",
+    "main.cf5436c4.js.map": "/thewerewalker/static/js/main.cf5436c4.js.map",
     "453.017e24e8.chunk.js.map": "/thewerewalker/static/js/453.017e24e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b86b2dc2.css",
-    "static/js/main.316a2a94.js"
+    "static/css/main.a015b936.css",
+    "static/js/main.cf5436c4.js"
   ]
 }
