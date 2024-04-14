@@ -41,13 +41,14 @@
 }
 .Experience .content-section {
   position: relative;
+  background-color: #d9dee2;
 }
 .Experience .cards {
   width: 100%;
   position: relative;
 }
 /* TODO: Fix Me */
-.Experience .cards::after {
+/* .Experience .cards::after {
   content: "";
   position: absolute;
   top: 14%;
@@ -56,7 +57,7 @@
   width: 5px;
   background: #d9dee2;
   z-index: -2;
-}
+} */
 .Experience .box:hover.box:before {
   background: #ff3a75;
 }
@@ -65,9 +66,9 @@
     flex-direction: column;
   }
   /* TODO: Fix Me */
-  .Experience .cards::after {
+  /* .Experience .cards::after {
     width: 100%;
     top: 14%;
     height: 105vh;
-  }
+  } */
 }

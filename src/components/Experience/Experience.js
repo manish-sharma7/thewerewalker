@@ -14,9 +14,9 @@ const Experience = () => {
           </div>
           <div className='content-section mtop d_flex'>
             <div className='cards'>
-              <div className='heading'>
+              {/* <div className='heading'>
                 <h4>2024-2021</h4>
-              </div>
+              </div> */}
               <div className='content'>
                 {Details.map((val, index) => {
                   if (val.category === "experience") {
