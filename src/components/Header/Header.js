@@ -1,6 +1,6 @@
 import React, { useState } from "react"
 import "./Header.css"
-import logo from "../images/header_logo.jpeg"
+// TODO: Import logo for header
 
 const Header = () => {
   // fixed Header
@@ -15,7 +15,8 @@ const Header = () => {
       <header className='header'>
         <div className='container d_flex'>
           <div className='logo'>
-            <img src={logo} alt='Header Logo' />
+            {/* <img src={logo} alt='Header Logo' /> */}
+            <h1 className='name'> MS </h1>
           </div>
 
           <div className='navlink'>
